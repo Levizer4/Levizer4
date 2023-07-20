@@ -1,12 +1,11 @@
-### Olá!!!Eu sou O Levi (Levizer4)
+### Hii!!!I'm Levi (Levizer4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on front-end
+- 🌱 I’m currently learning PHP 
+- 📫 How to reach me: levijosue4@gmail.com
 
 <div>
-  <a href="https://github.cob/Levizer4">
+  <a href="https://github.com/Levizer4">
   <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=Levizer4&show_icons=true&theme=radical"/>
 </div>
 
